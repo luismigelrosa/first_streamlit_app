@@ -47,3 +47,7 @@ streamlit.text(my_data_row)
 
 streamlit.header("The fruit_load_list contains:")
 streamlit.dataframe(my_data_row)
+
+streamlit.header("The full fruit_load_list contains:")
+streamlit.dataframe(my_data_rows)
+
